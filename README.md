@@ -6,3 +6,5 @@
 2. [uKit Explore Technical Reference](https://ubtechedu.gitbook.io/ukit-explore/v/english/)
 
 3. [uCode Download](http://www.ubtechedu.com/global/down_cat-1.html)
+
+4. [Software Serial on uKit Explore](https://github.com/VincentK16/uKit-Explore-Getting-Started-Resources/blob/main/Software%20Serial%20on%20uKit%20Explore.pdf)
